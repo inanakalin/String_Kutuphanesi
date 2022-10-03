@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\bin\Debug\net6.0\String_Kutuphanesi.exe
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\bin\Debug\net6.0\String_Kutuphanesi.deps.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\bin\Debug\net6.0\String_Kutuphanesi.runtimeconfig.json
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\bin\Debug\net6.0\String_Kutuphanesi.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\bin\Debug\net6.0\String_Kutuphanesi.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\refint\String_Kutuphanesi.dll
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.pdb
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\String_Kutuphanesi.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Belgeler\C#-Dersleri\Hazır Metotlar\String_Kutuphanesi\obj\Debug\net6.0\ref\String_Kutuphanesi.dll
